@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **any open-source side projects related to ASP.NET stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YashGupta95](https://github.com/YashGupta95)
+- 👨‍💻 All of my projects are available at: [https://github.com/YashGupta95](https://github.com/YashGupta95)
 
 - 💬 Ask me about **ASP.NET, PowerShell, Azure**
 
-- 📫 How to reach me **yash.gupta3108@gmail.com**
+- 📫 How to reach me: **yash.gupta3108@gmail.com**
 
-- ⚡ Fun fact **I love reading books, listening to music & helping other devs on StackOverflow**
+- ⚡ Fun fact: **I love reading books, listening to music & helping other devs on StackOverflow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
