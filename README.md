@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **yash.gupta3108@gmail.com**
 
-- ⚡ Fun fact **I love reading books, listening to music & helping other devs on StackOverflow (My StackOverflow profile: https://stackoverflow.com/users/5498542/yash-gupta)**
+- ⚡ Fun fact **I love reading books, listening to music & helping other devs on StackOverflow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
