@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm Yash Gupta</h1>
-<h3 align="center">I am a Full-Stack Developer working primarily with .NET, ReactJS & Typescript. I'm a Computer Science graduate from University of Petroleum & Energy Studies (UPES), Dehradun, India.</h3>
+<h3 align="center">I am a Full-Stack Developer working primarily with .NET, ReactJS & Typescript. I've pursued my graduation in Computer Science Engineering from University of Petroleum & Energy Studies (UPES), Dehradun, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta95&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta95" /> </p>
 
@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **how to effectively build scalable and reliable back-end systems using ASP.NET Core/MVC framework**
 
-- 👯 I’m looking to collaborate on **any open-source side projects related to ASP.NET stack**
+- 👯 I’m looking to collaborate on **any open-source side projects related to ReactJS/Typescript and .NET stack**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/YashGupta95](https://github.com/YashGupta95)
 
-- 💬 Ask me about **.NET, PowerShell, Azure**
+- 💬 Ask me about **.NET, Azure, PowerShell**
 
 - 📫 How to reach me: **yash.gupta3108@gmail.com**
 
-- ⚡ Fun fact: **I love reading books, listening to music & helping other devs on StackOverflow**
+- ⚡ Fun fact: **I love reading books, listening to music & lending a hand to other developers on StackOverflow**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
