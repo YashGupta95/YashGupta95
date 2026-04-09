@@ -1,21 +1,20 @@
 <h1 align="center">Hello World! 👋, I'm Yash Gupta</h1>
-<h3 align="center">I am a Full-Stack Developer working primarily with .NET, Angular & TypeScript. I've pursued my graduation in Computer Science Engineering from University of Petroleum & Energy Studies (UPES), Dehradun, India.</h3>
+<h3 align="center">With over 9 years of experience, I’m currently working as a Full-Stack Engineer, designing and delivering cloud-native applications that are built to scale and built to last. My core stack revolves around .NET, Angular, TypeScript, SQL, and Microsoft Azure, and I’ve worked across both microservices & monolithic architectures depending on what actually makes sense for the problem at hand. Lately, I’ve been exploring & implementing AI-driven capabilities to make applications smarter, more automated, and more useful in real-world scenarios.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta95&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta95" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashgupta95" alt="yashgupta95" /></a> </p>
 
-- 🌱 I’m currently learning **how to effectively build scalable and reliable back-end systems using ASP.NET Core/MVC framework**
+- 🌱 I’m currently learning **how to effectively build scalable and reliable AI-enriched systems using .NET/Angular tech stack and/or any other relevant frameworks.**
 
-- 👯 I’m looking to collaborate on **any open-source side projects related to Angular/TypeScript and .NET stack**
+- 👯 I’m looking to collaborate on **any open-source side projects related to .NET and Angular/TypeScript stack**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/YashGupta95](https://github.com/YashGupta95)
 
-- 💬 Ask me about **.NET, Azure, PowerShell**
+- 💬 Ask me about **.NET, Azure, AI, Full-stack development, SDLC**
 
 - 📫 How to reach me: **yash.gupta3108@gmail.com**
 
-- ⚡ Fun fact: **I love reading books, listening to music & lending a hand to other developers on StackOverflow**
+- ⚡ Fun fact: **I love reading books, listening to music & playing Table Tennis and video games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
