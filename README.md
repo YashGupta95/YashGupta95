@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm Yash Gupta</h1>
-<h3 align="center">With over 9 years of experience, I’m currently working as a Full-Stack Engineer, designing and delivering cloud-native applications that are built to scale and built to last. My core stack revolves around .NET, Angular, TypeScript, SQL, and Microsoft Azure, and I’ve worked across both microservices & monolithic architectures depending on what actually makes sense for the problem at hand. Lately, I’ve been exploring & implementing AI-driven capabilities to make applications smarter, more automated, and more useful in real-world scenarios.</h3>
+<h3 align="center">I’m currently working as a Full-Stack Engineer, designing and delivering cloud-native applications that are built to scale and built to last. My core stack revolves around .NET, Angular, TypeScript, SQL, and Microsoft Azure. Lately, I’ve been exploring & implementing AI-driven capabilities to make applications smarter, more automated, and more useful in real-world scenarios.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashgupta95&label=Profile%20views&color=0e75b6&style=flat" alt="yashgupta95" /> </p>
 
